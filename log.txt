@@ -1,0 +1,15 @@
+ Date is 1713309293043 : ::1 - GET - /api/users
+ Date is 1713309300445 : ::1 - GET - /users/
+ Date is 1713309307169 : ::1 - GET - /users/
+ Date is 1713309312013 : ::1 - GET - /users/1
+ Date is 1713310068396 : ::1 - GET - /users/661ad6c1cf12e9e5918c143b
+ Date is 1713310082063 : ::1 - POST - /users
+ Date is 1713310116027 : ::1 - DELETE - /users/661ad74acf12e9e5918c143d
+ Date is 1713310140926 : ::1 - PATCH - /api/users/661ad6c1cf12e9e5918c143b
+ Date is 1713310216458 : ::1 - PATCH - /api/users/661ad6c1cf12e9e5918c143b
+ Date is 1713310321302 : ::1 - POST - /users
+ Date is 1713310329068 : ::1 - PATCH - /api/users/661f0a71393f6035364c57b1
+ Date is 1713310472083 : ::1 - PATCH - /api/users/661f0a71393f6035364c57b1
+ Date is 1713310518566 : ::1 - PATCH - /api/users/661f0a71393f6035364c57b1
+ Date is 1713310528411 : ::1 - PATCH - /users/661f0a71393f6035364c57b1
+ Date is 1713310572030 : ::1 - PATCH - /users/661f0a71393f6035364c57b1
